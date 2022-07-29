@@ -2,4 +2,4 @@
 
 ## 可視化例
 - Cookie
-  - ![](outputs/cookie/000.git)
+  - ![](outputs/cookie/000.gif)
